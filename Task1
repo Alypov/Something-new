@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+</head>
+
+<body>
+
+    <h1>Lockheed Blackbird</h1>
+    <h2>SR-71</h2>
+    <p style="font-style: italic; max-width: 600px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo
+        consequuntur et dolore
+        laborum eos impedit, minus, vel
+        tenetur maxime ut nostrum voluptatum quibusdam, possimus exercitationem dolor quia? Eligendi, necessitatibus
+        corporis! Lorem ipsum dolor sit amet consectetur, adipisicing elit. A, ducimus maxime. Consectetur minus quas
+        molestiae quaerat libero rem pariatur, quae voluptatum sit modi neque ab fuga quis sunt impedit explicabo.
+    </p>
+
+    <img style="max-width: 500px;" src=".//img/1200px-Lockheed_SR-71_Blackbird.jpg" alt="Sorry, there is no image">
+
+    <p style="max-width: 600px;">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet eius vel perferendis
+        ab
+        dolorum cum repellendus non
+        architecto animi unde id, aliquid libero totam. Deserunt beatae quo asperiores ipsam fugiat! Lorem ipsum dolor
+        sit
+        amet consectetur adipisicing elit. Non autem sit porro nam aliquid harum nisi nihil? Molestiae repellat ratione
+        voluptate, iste vitae excepturi ullam nam, eligendi totam culpa necessitatibus.
+    </p>
+
+    <ul>
+        <li>Hey</li>
+        <li>This</li>
+        <li>Is</li>
+        <li>My</li>
+        <li>Fist</li>
+        <li>Article</li>
+
+    </ul>
+
+
+
+</body>
+
+</html>
